@@ -1,0 +1,8 @@
+You can find this file in the BSP Layer at:
+
+     meta-bsp_name/README.sources
+                
+This file provides information on where to locate the BSP source files used to build the images (if any) that reside in meta-bsp_name/binary. Images in the binary would be images released with the BSP. The information in the README.sources file also helps you find the Metadata used to generate the images that ship with the BSP.
+
+Note
+If the BSP's binary directory is missing or the directory has no images, an existing README.sources file is meaningless.

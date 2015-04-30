@@ -1,0 +1,7 @@
+You can find this file in the BSP Layer at:
+
+     meta-bsp_name/README
+                
+This file provides information on how to boot the live images that are optionally included in the binary/ directory. The README file also provides special information needed for building the image.
+
+At a minimum, the README file must contain a list of dependencies, such as the names of any other layers on which the BSP depends and the name of the BSP maintainer with his or her contact information.
