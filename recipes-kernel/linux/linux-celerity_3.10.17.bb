@@ -6,7 +6,7 @@ require recipes-kernel/linux/linux-dtb.inc
 
 SUMMARY = "Linux kernel for CelerityEDS boards"
 
-SRC_URI = "git://github.com/CelerityEDS/linux-imx.git;branch=${SRCBRANCH} \
+SRC_URI = "git://github.com/CelerityEDS/linux-imx.git;protocol=http;branch=${SRCBRANCH} \
            file://defconfig"
 
 SRCBRANCH = "CelerityCOM_iMX6_3.10.17"
