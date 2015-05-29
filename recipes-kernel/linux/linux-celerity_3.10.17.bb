@@ -10,7 +10,7 @@ SRC_URI = "git://github.com/CelerityEDS/linux-imx.git;protocol=http;branch=${SRC
            file://defconfig"
 
 SRCBRANCH = "CelerityCOM_iMX6_3.10.17"
-SRCREV = "7f713e3fead8b61680318097f1d3a81787772f56"
+SRCREV = "204c9df490377c17bde3ca4616c5b1875439d285"
 DEPENDS += "lzop-native bc-native"
 COMPATIBLE_MACHINE = "(mx6)"
 COMPATIBLE_MACHINE = "(celerity-imx6com)"
