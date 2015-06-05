@@ -11,7 +11,7 @@ PROVIDES += "u-boot"
 
 PV = "2015.04"
 
-SRCREV = "04c5bcf4642450e8bd35c59eaed9b36a48d1d852"
+SRCREV = "e8d0511a63d99b4ef8696b80b3595b6648e09328"
 SRCBRANCH = "COM_iMX6v2015.04"
 
 SRC_URI = "git://github.com/CelerityEDS/u-boot.git;branch=${SRCBRANCH}"
